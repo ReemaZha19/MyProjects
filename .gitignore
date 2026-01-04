@@ -1,0 +1,19 @@
+# Backend (Spring Boot)
+employ_management_system/target/
+employ_management_system/*.log
+employ_management_system/*.jar
+employ_management_system/*.war
+employ_management_system/*.iml
+employ_management_system/.idea/
+employ_management_system/.DS_Store
+
+# Frontend (React)
+ems-frontend/node_modules/
+ems-frontend/build/
+ems-frontend/.env
+ems-frontend/.DS_Store
+
+# General IDE / OS files
+.vscode/
+.DS_Store
+
