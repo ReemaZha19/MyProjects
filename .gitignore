@@ -1,17 +1,21 @@
+# Ignore other local projects (commit later)
+EduCore/
+quizapp/
+
 # Backend (Spring Boot)
-employ_management_system/target/
-employ_management_system/*.log
-employ_management_system/*.jar
-employ_management_system/*.war
-employ_management_system/*.iml
-employ_management_system/.idea/
-employ_management_system/.DS_Store
+EMS-project/employ_management_system/target/
+EMS-project/employ_management_system/*.log
+EMS-project/employ_management_system/*.jar
+EMS-project/employ_management_system/*.war
+EMS-project/employ_management_system/*.iml
+EMS-project/employ_management_system/.idea/
+EMS-project/employ_management_system/.DS_Store
 
 # Frontend (React)
-ems-frontend/node_modules/
-ems-frontend/build/
-ems-frontend/.env
-ems-frontend/.DS_Store
+EMS-project/ems-frontend/node_modules/
+EMS-project/ems-frontend/build/
+EMS-project/ems-frontend/.env
+EMS-project/ems-frontend/.DS_Store
 
 # General IDE / OS files
 .vscode/
